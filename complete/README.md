@@ -19,4 +19,5 @@ run/debug as JUnit
 ### Archivos de datos
 Están en la carpte resources
 
-
+### Nota
+asegurate que carga soruces de tipo Source Folder
