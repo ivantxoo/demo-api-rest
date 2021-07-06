@@ -1,0 +1,32 @@
+[
+	{
+		"id": 11,
+		"valor": 1,
+		"timestamp": 1625597347,
+		"fuenteId": 1
+	},
+	{
+		"id": 12,
+		"valor": 2,
+		"timestamp": 1625597340,
+		"fuenteId": 1
+	},
+	{
+		"id": 13,
+		"valor": 30,
+		"timestamp": 1625597300,
+		"fuenteId": 3
+	},
+	{
+		"id": 14,
+		"valor": 50,
+		"timestamp": 1625597200,
+		"fuenteId": 4
+	},
+	{
+		"id": 15,
+		"valor": 99,
+		"timestamp": 1625597345,
+		"fuenteId": 5
+	}
+]
