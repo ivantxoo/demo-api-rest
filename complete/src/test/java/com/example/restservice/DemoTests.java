@@ -22,11 +22,11 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 
 @SpringBootTest
-class DemoControllerTests {
+class DemoTests {
 	
 	@Autowired
     private DemoService service;
-	private static final Logger LOGGER = LoggerFactory.getLogger(DemoControllerTests.class);
+	private static final Logger LOGGER = LoggerFactory.getLogger(DemoTests.class);
 	
 	@Test
 	void findByIdFuenteTestReturnEventosList() throws Exception {
